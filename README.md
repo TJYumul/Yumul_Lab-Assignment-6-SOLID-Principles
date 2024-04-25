@@ -1,6 +1,6 @@
 # Lab-Assignment-6-SOLID-Principles
 
-UML Diagram
+# UML Diagram:
 
 ![Copy of LabAssignment6](https://github.com/TJYumul/Yumul_Lab-Assignment-6-SOLID-Principles/assets/132363388/086a4c0c-f1fa-4478-99f9-ed08faf06e33)
 
