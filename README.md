@@ -1,6 +1,7 @@
 # Lab-Assignment-6-SOLID-Principles
 Improve the following codes to implement SOLID principles in OOP.
 
+![Copy of LabAssignment6](https://github.com/TJYumul/Yumul_Lab-Assignment-6-SOLID-Principles/assets/132363388/086a4c0c-f1fa-4478-99f9-ed08faf06e33)
 
 public interface Order {
 
